@@ -2,3 +2,4 @@
 Este es un curso de git
 Esta es mi primera linea editada
 esta es la segunda 
+esto lo edito otro programador
